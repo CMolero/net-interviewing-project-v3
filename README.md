@@ -1,6 +1,6 @@
 # Coolblue Assessment
  
- ##Requirements 
+ Requirements 
  - .net core version 6
  - Newtonsoft.Json version >= 13
  - Swashbuckle.AspNetCore >= 6
@@ -38,5 +38,3 @@ Task 4 [FEATURE 2]:
 	
 Task 5 [FEATURE 3]:
 As a part of this story we need to provide the administrators/back office staff with a new endpoint that will allow them to upload surcharge rates per product type. This surcharge will then  need to be added to the overall insurance value for the product type.
-	
-	
