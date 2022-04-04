@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insurance.Api", "src\Insurance.Api\Insurance.Api.csproj", "{5FE381E9-61D0-4EE8-9CA9-C27D1ACB343E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insurance.Test", "tests\Insurance.Test\Insurance.Test.csproj", "{D9C34DD9-6EED-4A5D-8C5E-A57DC3FC8F30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FE381E9-61D0-4EE8-9CA9-C27D1ACB343E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE381E9-61D0-4EE8-9CA9-C27D1ACB343E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE381E9-61D0-4EE8-9CA9-C27D1ACB343E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE381E9-61D0-4EE8-9CA9-C27D1ACB343E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C34DD9-6EED-4A5D-8C5E-A57DC3FC8F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C34DD9-6EED-4A5D-8C5E-A57DC3FC8F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C34DD9-6EED-4A5D-8C5E-A57DC3FC8F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C34DD9-6EED-4A5D-8C5E-A57DC3FC8F30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {103BFDE7-98A6-40D3-8EC7-3BADB5CC8F71}
+	EndGlobalSection
+EndGlobal
